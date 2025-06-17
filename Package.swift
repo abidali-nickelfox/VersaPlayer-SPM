@@ -16,8 +16,7 @@ let package = Package(
     targets: [
         .target(
             name: "VersaPlayer",
-            path: "Sources/VersaPlayer/Classes"
+            path: "Sources/VersaPlayer/Classes/Source"
         )
     ]
 )
-
